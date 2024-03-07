@@ -15,6 +15,7 @@ def load_scoliosis_data():
     except Exception as e:
         print("Error:", e)
         return None, None, None, None
+        
 
 if __name__ == "__main__":
     print('Loading the data')
