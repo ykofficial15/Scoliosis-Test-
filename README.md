@@ -1,4 +1,4 @@
-# **An Ensemble Deep Learning Approach to Classify Scoliosis and Healthy Subjects In Python and Keras**
+<!--# **An Ensemble Deep Learning Approach to Classify Scoliosis and Healthy Subjects In Python and Keras**
 
 ## Adolescent idiopathic scoliosis
 
@@ -74,3 +74,4 @@ pip install -r requirements.txt
 ```
 
 To load and run the already trained model you can directly execute the command: ``python main.py``
+-->
